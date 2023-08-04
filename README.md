@@ -52,13 +52,13 @@ Uma interface de usuário amigável com ícones e botões claros para facilitar 
 O quarto infantil com detalhes encantadores, como uma cama, estantes, mesa de estudos, prateleiras de brinquedos e paredes decoradas com cores vibrantes.
 
 ### Características do protagonista
-Um jovem que foi encolhido em seu quarto e pode ser controlado pelo jogador, possui roupas ou uma fantasia que caracterizam sua idade.
+Um menino que foi encolhido em seu quarto e pode ser controlado pelo jogador, possui roupas ou uma fantasia que te apresentam como uma criança.
 
 ### Animações, efeitos e texturas
 As animações são utilizadas para dar vida aos objetos do quarto e criar efeitos visuais para destacar a interatividade do ambiente. Texturas serão usadas para dar maior destaque aos objetos e superfícies do cenário.
 
 ### Iluminação do cenário
-Luzes vão ser aplicadas em pontos estratégicos para induzir a sua jogatina, as sombras irão adiconar um contraste maior em locais específicos do mapa. 
+Luzes vão ser aplicadas em pontos estratégicos para induzir a sua jogatina, as sombras irão adicionar um contraste maior em locais específicos do mapa. 
 
 ### Brinquedos/Objetos e suas interações
 Variedade de brinquedos espalhados pelo quarto, como bonecas, ursinhos de pelúcia, carrinhos e blocos de construção. Permitindo que o jogador os mova, empurre ou pule por cima deles durante a jogabilidade.
