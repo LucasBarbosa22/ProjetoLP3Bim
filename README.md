@@ -43,3 +43,24 @@ SAIR - Caso o jogador deseje encerrar o jogo, ao clicar neste botão, ele será 
 
 ## ELEMENTOS VISUAIS
 Como já citado anteriormente, o nosso jogo será focado na temática infantil, sendo assim os possíveis elementos visuais que iremos usar são:
+
+### Interface do Menu
+Uma interface de usuário amigável com ícones e botões claros para facilitar a navegação do jogador nos menus e opções.
+
+### Cenário do quarto
+O quarto infantil com detalhes encantadores, como uma cama, estantes, mesa de estudos, prateleiras de brinquedos e paredes decoradas com cores vibrantes.
+
+### Características do protagonista
+Um jovem que foi encolhido em seu quarto e pode ser controlado pelo jogador, possui roupas ou uma fantasia que caracterizam sua idade.
+
+### Animações, efeitos e texturas
+As animações são utilizadas para dar vida aos objetos do quarto e criar efeitos visuais para destacar a interatividade do ambiente. Texturas serão usadas para dar maior destaque aos objetos e superfícies do cenário.
+
+### Iluminação do cenário
+Luzes vão ser aplicadas em pontos estratégicos para induzir a sua jogatina, as sombras irão adiconar um contraste maior em locais específicos do mapa. 
+
+### Brinquedos/Objetos e suas interações
+Variedade de brinquedos espalhados pelo quarto, como bonecas, ursinhos de pelúcia, carrinhos e blocos de construção. Permitindo que o jogador os mova, empurre ou pule por cima deles durante a jogabilidade.
+
+### Peças do quebra cabeça
+Essas peças vão possuir cores e formas únicas, para que o jogador saiba distinguir durante sua experiência no cenário ([Interatividade](###Brinquedos/Objetos-e-suas-interações) citada anteriormente).
