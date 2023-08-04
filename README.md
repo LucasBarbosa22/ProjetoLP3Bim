@@ -2,6 +2,16 @@
 ### Alunos: Bruno Lima e Lucas Barreto
 ### Tópicos
 
+:small_blue_diamond: [OBJETIVO](#objetivo)
+
+:small_blue_diamond: [PROPOSTA](#proposta)
+
+:small_blue_diamond: [ENREDO](#enredo)
+
+:small_blue_diamond: [CENAS](#cenas)
+
+:small_blue_diamond: [ELEMENTOS VISUAIS](#elementos-visuais)
+
 ## OBJETIVO
    O objetivo deste projeto é desenvolver um jogo completo na plataforma Unity, consistindo em três cenas interativas, onde aplicaremos todos os elementos e funcionalidades que já aprendemos até o momento. A parte inicial do projeto consiste na entrega de uma proposta detalhada do game, incluindo uma descrição completa do jogo, seus objetivos principais e os elementos que utilizaremos em sua criação.
 
@@ -29,6 +39,7 @@ SAIR - Caso o jogador deseje encerrar o jogo, ao clicar neste botão, ele será 
 ### Cena 3 - Quarto e o Quebra-Cabeça
    Nessa terceira cena, a missão principal é apresentada ao jogador. Cinco peças do quebra-cabeça estão espalhadas em diferentes partes do quarto. Para que o jogador reverta o feitiço e retorne ao seu tamanho normal, ele deverá coletar todas as peças e colocá-las em seus lugares designados.
    A tarefa não será nada simples e para encontrá-las será necessário explorar cada centímetro do quarto. Desde vasculhar debaixo dos móveis até alcançar lugares inusitados, como o topo do lustre. A atmosfera desse cenário colorido, cheio de decorações infantis, tornará a experiência ainda mais envolvente.
+</ol>
 
 ## ELEMENTOS VISUAIS
 Como já citado anteriormente, o nosso jogo será focado na temática infantil, sendo assim os possíveis elementos visuais que iremos usar são:
