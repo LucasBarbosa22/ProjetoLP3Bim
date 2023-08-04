@@ -2,15 +2,15 @@
 ### Alunos: Bruno Lima e Lucas Barreto
 ### Tópicos
 
-:small_blue_diamond: [OBJETIVO](#objetivo)
+🔶 [OBJETIVO](#objetivo)
 
-:small_blue_diamond: [PROPOSTA](#proposta)
+🔶 [PROPOSTA](#proposta)
 
-:small_blue_diamond: [ENREDO](#enredo)
+🔶 [ENREDO](#enredo)
 
-:small_blue_diamond: [CENAS](#cenas)
+🔶 [CENAS](#cenas)
 
-:small_blue_diamond: [ELEMENTOS VISUAIS](#elementos-visuais)
+🔶 [ELEMENTOS VISUAIS](#elementos-visuais)
 
 ## OBJETIVO
    O objetivo deste projeto é desenvolver um jogo completo na plataforma Unity, consistindo em três cenas interativas, onde aplicaremos todos os elementos e funcionalidades que já aprendemos até o momento. A parte inicial do projeto consiste na entrega de uma proposta detalhada do game, incluindo uma descrição completa do jogo, seus objetivos principais e os elementos que utilizaremos em sua criação.
