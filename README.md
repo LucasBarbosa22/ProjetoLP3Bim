@@ -12,7 +12,7 @@
 
 🔶 [ELEMENTOS VISUAIS](#elementos-visuais)
 
-[Interatividade](###Brinquedos/Objetos-e-suas-interações
+[Interatividade](###Brinquedos/Objetos-e-suas-interações)
 
 ## OBJETIVO
    O objetivo deste projeto é desenvolver um jogo completo na plataforma Unity, consistindo em três cenas interativas, onde aplicaremos todos os elementos e funcionalidades que já aprendemos até o momento. A parte inicial do projeto consiste na entrega de uma proposta detalhada do game, incluindo uma descrição completa do jogo, seus objetivos principais e os elementos que utilizaremos em sua criação.
