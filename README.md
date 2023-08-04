@@ -12,7 +12,6 @@
 
 🔶 [ELEMENTOS VISUAIS](#elementos-visuais)
 
-[Interatividade](###Brinquedos/Objetos-e-suas-interações)
 
 ## OBJETIVO
    O objetivo deste projeto é desenvolver um jogo completo na plataforma Unity, consistindo em três cenas interativas, onde aplicaremos todos os elementos e funcionalidades que já aprendemos até o momento. A parte inicial do projeto consiste na entrega de uma proposta detalhada do game, incluindo uma descrição completa do jogo, seus objetivos principais e os elementos que utilizaremos em sua criação.
@@ -65,4 +64,4 @@ Luzes vão ser aplicadas em pontos estratégicos para induzir a sua jogatina, as
 Variedade de brinquedos espalhados pelo quarto, como bonecas, ursinhos de pelúcia, carrinhos e blocos de construção. Permitindo que o jogador os mova, empurre ou pule por cima deles durante a jogabilidade.
 
 ### Peças do quebra cabeça
-Essas peças vão possuir cores e formas únicas, para que o jogador saiba distinguir durante sua experiência no cenário ([Interatividade](###Brinquedos/Objetos-e-suas-interações) citada anteriormente).
+Essas peças vão possuir cores e formas únicas, para que o jogador saiba distinguir durante sua experiência no cenário (Interatividade no tópico anterior).
